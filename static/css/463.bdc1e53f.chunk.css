@@ -1,0 +1,2 @@
+gridlayout{text-wrap:nowrap;display:grid;grid-template-rows:repeat(auto-fit,auto);justify-content:start;max-height:326px;overflow:scroll;padding-left:10px;white-space:nowrap}gridlayout>*{align-items:center;display:flex;padding:10px}.first-col{position:relative}.first-col:before{background-image:linear-gradient(90deg,#34476700,#34476766,#34476700);content:"";height:1px;left:0;opacity:.25;position:absolute;top:0;width:88vw}.last-col{justify-content:center}
+/*# sourceMappingURL=463.bdc1e53f.chunk.css.map*/
